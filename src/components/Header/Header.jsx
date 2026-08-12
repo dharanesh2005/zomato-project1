@@ -1,9 +1,9 @@
 import React, { useState } from "react";
 import "./Header.scss";
-import Logo from "../../assets/images/Zomato-Logo.png";
+import Logo from "../../assets/images/Swiggy-img.png";
 import MenuIcon from "@mui/icons-material/Menu";
 import CloseIcon from "@mui/icons-material/Close";
-import blackLogo from "../../assets/images/blackLogo.webp";
+import blackLogo from "../../assets/images/background-img.png";
 
 const Header = () => {
   const [open, setOpen] = useState(false);

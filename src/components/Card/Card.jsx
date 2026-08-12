@@ -1,8 +1,8 @@
 import React from "react";
 import "./Card.scss";
-import Dine from "../../assets/images/Dine-Out.png";
-import Night from "../../assets/images/Night-Life.png";
-import Online from "../../assets/images/Online-Food.png";
+import Dine from "../../assets/images/dine-img.png";
+import Night from "../../assets/images/party-img.png";
+import Online from "../../assets/images/dinning-img.png";
 
 const Card = () => {
   return (
