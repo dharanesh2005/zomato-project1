@@ -35,14 +35,14 @@ const Header = () => {
       )}
       <div className="headerContent">
         <img src={Logo} alt="logo" />
-        <h3>Discover the best food & drinks in Patna</h3>
+        <h3>Discover the best food & drinks in Bengaluru</h3>
         <div className="input">
           <select name="" id="">
-            <option value="Chennai">Chennai</option>
-            <option value="Jaipur">Jaipur</option>
-            <option value="Delhi">Delhi</option>
-            <option value="Mumbai">Mumbai</option>
-            <option value="Kolkata">Kolkata</option>
+            <option value="Chennai">Tamil Nadu</option>
+            <option value="Jaipur">Kerala</option>
+            <option value="Delhi">Andara Pradesh</option>
+            <option value="Mumbai">Karnataka</option>
+            <option value="Kolkata">Telungana</option>
           </select>
           |
           <input

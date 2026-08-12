@@ -1,10 +1,10 @@
 import React from "react";
 import "./Collection.scss";
 import ArrowRightIcon from "@mui/icons-material/ArrowRight";
-import collection1 from "../../assets/images/collection1.webp";
-import collection2 from "../../assets/images/collection2.webp";
-import collection3 from "../../assets/images/collection3.webp";
-import collection4 from "../../assets/images/collection4.webp";
+import collection1 from "../../assets/images/collection1-img.png";
+import collection2 from "../../assets/images/collection2-img.png";
+import collection3 from "../../assets/images/collection3-img.png";
+import collection4 from "../../assets/images/collection4-img.png";
 
 const Collection = () => {
   return (
